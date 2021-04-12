@@ -16,7 +16,10 @@ Semi-annual work in computer graphics course (A minecraft type game)
   παιρνει τους 100 ποντους.
 
 <br>
-![1](https://user-images.githubusercontent.com/74098652/114326655-7baac980-9b3e-11eb-89bc-65e07a872780.png)
-<br>
-![1](https://user-images.githubusercontent.com/74098652/114326658-7f3e5080-9b3e-11eb-9079-f96a8b90df44.png)
+![7](https://user-images.githubusercontent.com/74098652/114326705-b4e33980-9b3e-11eb-98a7-ad684ad3e6cb.png)
+
+
+<br>![8](https://user-images.githubusercontent.com/74098652/114326711-bb71b100-9b3e-11eb-9d27-ad5eae8cf323.png)
+
+
 
