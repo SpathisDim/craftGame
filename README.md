@@ -1,4 +1,4 @@
-# craftGame (only C# codes)
+# craftGame 
 Semi-annual work in computer graphics course (A minecraft type game)
 
 =============== Περιγραφη ====================
