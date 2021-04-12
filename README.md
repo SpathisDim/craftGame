@@ -15,8 +15,9 @@ Semi-annual work in computer graphics course (A minecraft type game)
 4)Καταστρεφοντας κυβους κερδιζει μοναδες(Points) και φτιαχνοντας κυβους χανει μοναδες.Επισης φτιαχνοντας κυβους προς τα πανω οταν χτισει 5 κυβους 
   παιρνει τους 100 ποντους.
   
- <br>
-![7](https://user-images.githubusercontent.com/74098652/114326736-cf1d1780-9b3e-11eb-89bc-656eed2da3be.png)
+ <br>![7](https://user-images.githubusercontent.com/74098652/114326760-f247c700-9b3e-11eb-8c76-069045343599.png)
+
+
 
 <br>![8](https://user-images.githubusercontent.com/74098652/114326711-bb71b100-9b3e-11eb-9d27-ad5eae8cf323.png)
 
