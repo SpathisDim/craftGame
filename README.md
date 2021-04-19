@@ -1,7 +1,7 @@
 # craftGame 
 Semi-annual work in computer graphics course (A minecraft type game)
 
-=============== Περιγραφη ====================
+<h3 align="center"> =============== Περιγραφη ==================== </h3>
 
 1)Αρχικα εχουμε δημιουργησει ενα pregame menu οπου υπαρχουν 2 button ενα (New game) και ενα (Quit)
   Πατωντας ο χρηστης New Game εισερχεται στο παιχνιδι οπου εκει βλεπει τον παιχτη να ειναι τοποθετημενος πανω στον Magenta cube 
